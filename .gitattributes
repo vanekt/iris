@@ -8,4 +8,3 @@ _benchmarks/* linguist-documentation
 # if from unix:
 # git config --global core.autocrlf input
 # https://help.github.com/articles/dealing-with-line-endings/#per-repository-settings
-* text=auto
